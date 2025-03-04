@@ -118,6 +118,7 @@ fabric.properties
 .idea/**/azureSettings.xml
 
 ### CMake ###
+/cmake-build-debug
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
